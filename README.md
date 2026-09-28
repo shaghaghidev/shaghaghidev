@@ -1,14 +1,72 @@
 <div align="center">
 
-# Abolfazl Shaghaghi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0D,45:241A3A,72:6F4FB3,100:A678FF&height=280&section=header&text=Abolfazl%20Shaghaghi&fontSize=48&fontColor=F2EEE8&fontAlignY=34&desc=WEB%20DESIGNER%20%26%20DEVELOPER&descSize=16&descAlignY=56&descColor=D6A96A&animation=fadeIn" width="100%"/>
 
-### Web Designer & Developer
+<a href="https://shaghaghidev.ir">
+<img src="https://img.shields.io/badge/PORTFOLIO-shaghaghidev.ir-A678FF?style=for-the-badge&labelColor=090A0D" />
+</a>
+<a href="https://github.com/shaghaghidev">
+<img src="https://img.shields.io/badge/GITHUB-@shaghaghidev-F2EEE8?style=for-the-badge&labelColor=090A0D&logo=github&logoColor=A678FF" />
+</a>
+<a href="mailto:shaghaghidev.ir@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-D6A96A?style=for-the-badge&labelColor=090A0D&logo=gmail&logoColor=D6A96A" />
+</a>
 
-Computer Engineering student focused on **Web Design & Development** — currently working with **WordPress, Figma, HTML and CSS**, and moving toward **JavaScript, PHP and WordPress Development**.
+<br><br>
 
-<a href="https://shaghaghidev.ir">Website</a> ·
-<a href="https://github.com/shaghaghidev">GitHub</a> ·
-<a href="mailto:shaghaghidev.ir@gmail.com">Email</a>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2600&pause=1000&color=A678FF&center=true&vCenter=true&width=760&lines=Designing+interfaces.+Building+websites.;Learning+by+building+real+things.;WordPress+%C2%B7+Figma+%C2%B7+HTML+%C2%B7+CSS;Next%3A+JavaScript+%C2%B7+PHP+%C2%B7+WordPress+Development" alt="Typing introduction" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ✦ WEB · DESIGN · DEVELOPMENT
+
+<table>
+<tr>
+<td align="center" width="220">
+
+### NOW
+
+**WordPress**  
+**Figma**  
+**HTML · CSS**
+
+</td>
+<td align="center" width="40">
+
+→
+
+</td>
+<td align="center" width="220">
+
+### NEXT
+
+**JavaScript**  
+**PHP**  
+**WordPress Development**
+
+</td>
+<td align="center" width="40">
+
+→
+
+</td>
+<td align="center" width="220">
+
+### LATER
+
+**React**  
+**Next.js**  
+**Modern Web Development**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -16,113 +74,165 @@ Computer Engineering student focused on **Web Design & Development** — current
 
 ## About
 
-I'm building my path in web development through real projects, design practice and continuous learning.
+I'm **Abolfazl Shaghaghi**, a Computer Engineering student building my professional path around **web design and development**.
 
-My current direction is simple:
+My focus is not on collecting technologies. It's on learning them well enough to turn ideas into websites that feel **intentional, usable, responsive and well-built**.
 
-- **Now:** WordPress · Figma · HTML · CSS
-- **Next:** JavaScript · PHP · WordPress Development
-- **Then:** APIs · Databases
-- **Later:** React / Next.js and modern web development
+I currently work with **WordPress, Figma, HTML and CSS**, while moving toward JavaScript, PHP and deeper WordPress development.
 
-I care about building websites that are **usable, responsive, visually intentional and technically solid**.
-
-My website and this profile are designed to show what I'm actually working on — not to present skills I haven't earned yet.
+> **The goal:** build better things, understand more of what I build, and gradually move from assisted prototypes to stronger independent implementation.
 
 ---
 
-## Selected Work
+## ✦ My Direction
 
-### Love You — Interactive Web Experience
+<div align="center">
 
-A personal interactive web experience built around a visual love message, with animated typography, a dynamic heart, ambient effects and interactive motion.
+| 01 | 02 | 03 | 04 |
+|:---:|:---:|:---:|:---:|
+| **DESIGN** | **BUILD** | **LEARN** | **REFINE** |
+| Visual systems | Real websites | New technologies | Better execution |
 
-**HTML · CSS · Vanilla JavaScript**
+</div>
 
-[View project →](https://github.com/shaghaghidev/love-you) · [Live demo →](https://shaghaghidev.ir/showcase/love-you)
-
----
-
-### AbolfazlMind
-
-An AI-assisted Telegram project exploring a multi-provider chat architecture and a practical personal-assistant workflow.
-
-**Python · AI · Telegram · Docker**
-
-[View repository →](https://github.com/shaghaghidev/AbolfazlMind_Bot)
+I care about the intersection of **visual design and implementation** — where a good interface is not only attractive, but also practical and technically considered.
 
 ---
 
-### Telegram Privacy Checker
+## ⚡ Current Stack
 
-A read-only self-audit utility for checking Telegram account privacy and security information.
+<div align="center">
 
-**Python · Automation**
+<img src="https://img.shields.io/badge/WordPress-111319?style=for-the-badge&logo=wordpress&logoColor=A678FF" />
+<img src="https://img.shields.io/badge/Figma-111319?style=for-the-badge&logo=figma&logoColor=A678FF" />
+<img src="https://img.shields.io/badge/HTML5-111319?style=for-the-badge&logo=html5&logoColor=D6A96A" />
+<img src="https://img.shields.io/badge/CSS3-111319?style=for-the-badge&logo=css3&logoColor=D6A96A" />
 
-[View repository →](https://github.com/shaghaghidev/telegram-privacy-checker)
+<br>
 
----
+<img src="https://img.shields.io/badge/Git-111319?style=for-the-badge&logo=git&logoColor=F2EEE8" />
+<img src="https://img.shields.io/badge/GitHub-111319?style=for-the-badge&logo=github&logoColor=F2EEE8" />
+<img src="https://img.shields.io/badge/C%2B%2B-111319?style=for-the-badge&logo=cplusplus&logoColor=A678FF" />
 
-### Store Management System
+</div>
 
-A university C++ project built for the Fundamentals of Programming course, covering products, inventory, search, file handling and a console-based management flow.
+<br>
 
-**C++ · CLI**
+<div align="center">
 
-[View repository →](https://github.com/shaghaghidev/store-management-cpp)
+<sub>Current tools are shown honestly. The stack grows as the skill does.</sub>
 
----
-
-## How I Work
-
-AI-assisted development and vibe coding are part of my current workflow.
-
-I use AI to explore ideas, prototype, debug and move faster, while continuing to learn the underlying technologies. I don't present AI-assisted projects as proof of expertise in technologies I haven't independently mastered yet.
-
-The goal is to turn ideas into **real, usable work** and gradually take more ownership of the implementation.
+</div>
 
 ---
 
-## Current Focus
+## 🧭 Learning Roadmap
 
-| Area | Status |
-|---|---|
-| WordPress | **Current** |
-| Figma | **Current** |
-| HTML / CSS | **Current** |
-| JavaScript | **Next** |
-| PHP | **Next** |
-| WordPress Development | **Next** |
-| APIs / Databases | **Then** |
-| React / Next.js | **Later** |
+<div align="center">
 
----
+### NOW
+**WordPress · Figma · HTML · CSS**
 
-## Portfolio
+↓
 
-**Production website:**  
-https://shaghaghidev.ir
+### NEXT
+**JavaScript · PHP · WordPress Development**
 
-The website is the main presentation of my work and learning journey. GitHub is where the source code, repositories and development history live.
+↓
 
-### Web Design Showcase
+### THEN
+**APIs · Databases · Deeper Backend Understanding**
 
-The web-design section is intentionally reserved for real work. I don't use fake clients, fake results or made-up case studies.
+↓
+
+### LATER
+**React · Next.js · Modern Web Development**
+
+</div>
 
 ---
 
-## Connect
+## ◌ How I Build
 
-- **Website:** https://shaghaghidev.ir
-- **GitHub:** https://github.com/shaghaghidev
-- **Telegram:** https://t.me/ablfz_shaghaghi
-- **Instagram:** https://instagram.com/shaghaghipv
-- **Email:** shaghaghidev.ir@gmail.com
+AI-assisted development and **vibe coding** are part of my current workflow.
+
+I use AI to explore ideas, prototype interfaces, debug problems and accelerate development. At the same time, I'm actively learning the technologies underneath the work so that the amount of independent implementation keeps growing.
+
+**AI is part of the workflow — not the identity.**
+
+---
+
+## ✦ What I Value
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**01**
+
+### CLARITY
+
+Simple ideas.  
+Clear interfaces.
+
+</td>
+<td width="25%" align="center">
+
+**02**
+
+### CRAFT
+
+Details matter.  
+Design should feel intentional.
+
+</td>
+<td width="25%" align="center">
+
+**03**
+
+### LEARNING
+
+Build → break →  
+understand → improve.
+
+</td>
+<td width="25%" align="center">
+
+**04**
+
+### HONESTY
+
+Show what I know.  
+Keep learning what I don't.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<sub>Building with curiosity. Learning by doing. Improving one project at a time.</sub>
+## ✦ THE WORK LIVES HERE
+
+<a href="https://shaghaghidev.ir">
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-%E2%86%92-A678FF?style=for-the-badge&labelColor=090A0D" />
+</a>
+
+<br><br>
+
+<a href="https://t.me/ablfz_shaghaghi">Telegram</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://instagram.com/shaghaghipv">Instagram</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:shaghaghidev.ir@gmail.com">Email</a>
+
+<br><br>
+
+<sub>Computer Engineering · Web Design & Development · Learning by building</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A678FF,45:6F4FB3,75:241A3A,100:090A0D&height=130&section=footer" width="100%"/>
 
 </div>
